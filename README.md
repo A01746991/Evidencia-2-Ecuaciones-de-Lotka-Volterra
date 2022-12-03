@@ -1,2 +1,2 @@
-# Evidencia-2-Ecuaciones-de-Lotka-Volterra
+# Reto-MA1002B
 3 fases del reto
